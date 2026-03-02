@@ -1,7 +1,32 @@
 {
-  "HashAdmin": "ShittyHead",
-  "GarukBiji": "Decided",
-  "BijiGatal": "Garuk",
-  "Prabowo": "sawit",
-  "Nama": "pass"
+  "owner": {
+    "Prabowo": {
+      "pass": "sawit",
+      "created": "2037-01-01"
+    }
+  },
+  "admin": {
+    "HashAdmin": {
+      "pass": "ShittyHead",
+      "created": "2027-01-01"
+    }
+  },
+  "premium": {
+    "GarukBiji": {
+      "pass": "Decided",
+      "created": "2024-01-01",
+      "expiry": "2026-12-31"
+    },
+    "BijiGatal": {
+      "pass": "Garuk",
+      "created": "2024-01-01",
+      "expiry": "2026-12-31"
+    }
+  },
+  "user": {
+    "Nama": {
+      "pass": "pass",
+      "created": "2026-11-01"
+    }
+  }
 }
